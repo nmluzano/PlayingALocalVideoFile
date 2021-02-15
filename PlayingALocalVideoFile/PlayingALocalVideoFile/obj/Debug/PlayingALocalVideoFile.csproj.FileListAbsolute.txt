@@ -1,0 +1,15 @@
+C:\Users\Nicole\Desktop\MAJOR ICT\PlayingALocalVideoFile\PlayingALocalVideoFile\PlayingALocalVideoFile\obj\Debug\PlayingALocalVideoFile.csprojAssemblyReference.cache
+C:\Users\Nicole\Desktop\MAJOR ICT\PlayingALocalVideoFile\PlayingALocalVideoFile\PlayingALocalVideoFile\obj\Debug\MainWindow.g.cs
+C:\Users\Nicole\Desktop\MAJOR ICT\PlayingALocalVideoFile\PlayingALocalVideoFile\PlayingALocalVideoFile\obj\Debug\App.g.cs
+C:\Users\Nicole\Desktop\MAJOR ICT\PlayingALocalVideoFile\PlayingALocalVideoFile\PlayingALocalVideoFile\obj\Debug\PlayingALocalVideoFile_MarkupCompile.cache
+C:\Users\Nicole\Desktop\MAJOR ICT\PlayingALocalVideoFile\PlayingALocalVideoFile\PlayingALocalVideoFile\obj\Debug\PlayingALocalVideoFile_MarkupCompile.lref
+C:\Users\Nicole\Desktop\MAJOR ICT\PlayingALocalVideoFile\PlayingALocalVideoFile\PlayingALocalVideoFile\bin\Debug\PlayingALocalVideoFile.exe.config
+C:\Users\Nicole\Desktop\MAJOR ICT\PlayingALocalVideoFile\PlayingALocalVideoFile\PlayingALocalVideoFile\bin\Debug\PlayingALocalVideoFile.exe
+C:\Users\Nicole\Desktop\MAJOR ICT\PlayingALocalVideoFile\PlayingALocalVideoFile\PlayingALocalVideoFile\bin\Debug\PlayingALocalVideoFile.pdb
+C:\Users\Nicole\Desktop\MAJOR ICT\PlayingALocalVideoFile\PlayingALocalVideoFile\PlayingALocalVideoFile\obj\Debug\MainWindow.baml
+C:\Users\Nicole\Desktop\MAJOR ICT\PlayingALocalVideoFile\PlayingALocalVideoFile\PlayingALocalVideoFile\obj\Debug\PlayingALocalVideoFile.g.resources
+C:\Users\Nicole\Desktop\MAJOR ICT\PlayingALocalVideoFile\PlayingALocalVideoFile\PlayingALocalVideoFile\obj\Debug\PlayingALocalVideoFile.Properties.Resources.resources
+C:\Users\Nicole\Desktop\MAJOR ICT\PlayingALocalVideoFile\PlayingALocalVideoFile\PlayingALocalVideoFile\obj\Debug\PlayingALocalVideoFile.csproj.GenerateResource.cache
+C:\Users\Nicole\Desktop\MAJOR ICT\PlayingALocalVideoFile\PlayingALocalVideoFile\PlayingALocalVideoFile\obj\Debug\PlayingALocalVideoFile.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\Desktop\MAJOR ICT\PlayingALocalVideoFile\PlayingALocalVideoFile\PlayingALocalVideoFile\obj\Debug\PlayingALocalVideoFile.exe
+C:\Users\Nicole\Desktop\MAJOR ICT\PlayingALocalVideoFile\PlayingALocalVideoFile\PlayingALocalVideoFile\obj\Debug\PlayingALocalVideoFile.pdb
